@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/975550635.svg)](https://doi.org/10.5281/zenodo.15311084)
 MRMineral & MineralTD
 
 MRMineral is a  dataset containing 400 unique minerals. It is designed as a ML-ready dataset derived from parsed and cleaned mineral formulas.
